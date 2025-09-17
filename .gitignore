@@ -4,7 +4,10 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
-# IDE/Editor
+# OS
+.DS_Store
+
+# Editor/IDE
 .vscode/
 .idea/
 
@@ -12,10 +15,7 @@ $RECYCLE.BIN/
 *.log
 *.tmp
 
-# OS
-.DS_Store
-
-# (Jika ada) Node & PHP
+# Node & PHP
 node_modules/
 vendor/
 
