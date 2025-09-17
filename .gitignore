@@ -1,0 +1,26 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Log/temp
+*.log
+*.tmp
+
+# OS
+.DS_Store
+
+# (Jika ada) Node & PHP
+node_modules/
+vendor/
+
+# Jaga-jaga
+AppData/
+*/AppData/
+Android/
+*/Android/
